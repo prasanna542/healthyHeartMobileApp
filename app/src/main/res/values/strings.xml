@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealthyHeartFinal</string>
+    <string name="appheading">Healthy Heart</string>
+    <string name="cholInfo">High levels of cholesterol can clog your arteries and raise your risk of coronary artery disease and heart attack. Lifestyle changes and medicines can lower your cholesterol. Triglycerides are another type of fat in the blood. High levels of triglycerides may also raise the risk of coronary artery disease, especially in women.</string>
+    <string name="cholHeading"><b>Keep your cholesterol and triglyceride levels under control</b></string>
+    <string name="bpHeading"><b>Control your blood pressure</b></string>
+    <string name="bpInfo">High BP is a major risk factor for heart disease. It is important to get your blood pressure checked regularly at least once a year for most adults, and more often if you have high blood pressure. Take steps, including lifestyle changes, to prevent or control high blood pressure.</string>
+    <string name="sodiumIntakeHeading"><b>Lower your daily sodium intake</b></string>
+    <string name="sodiumIntakeInfo">Too much sodium causes you to retain water, according to a small 2017 studyTrusted Source. When it does, your heart has to work harder to move the additional fluid through your body. Choose foods labeled as “no salt added,” try to avoid foods that have more than 400 milligrams of sodium per serving, and try to stay below 1500 milligrams total per day.\nWhenever you can, replace salt in your cooking with herbs and spices. The Dietary Approaches to Stop Hypertension (DASH) diet can also be a helpful way to lower sodium and help take care of your heart.</string>
+    <string name="fatIntakeHeading"><b>Lower your saturated fat intake</b></string>
+    <string name="fatIntakeInfo">Saturated fat can lead to atherosclerosis, where hard plaque builds up in your arteries. You can lower your intake by eating low fat cuts of meat, like the eye of round roast or sirloin tip, and avoiding high fat dairy products. Generally speaking, if it’s greasy, it’s likely higher in saturated fats.</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920604562869",
+    "firebase_url": "https://healthyheartmobileapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "healthyheartmobileapp",
+    "storage_bucket": "healthyheartmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920604562869:android:3c92109de5a49c2c68f5fc",
+        "android_client_info": {
+          "package_name": "com.example.healthyheartfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920604562869-h0fjn1k3e32ab733do2poof8mc7sk89g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJn7I6MKv_fe2eo97ZlYzuTDVqmqRfF7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920604562869-h0fjn1k3e32ab733do2poof8mc7sk89g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
